@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @rahul9developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--- This is our college project ----
+Optimized performance behaviour of 1D photonic crystal based Filter
 
-<!---
-rahul9developer/rahul9developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Developers
+
+- Rahul Mukherjee
+- Dibyadyuti Gorai
+- Pritam Dutta
+
+## Guide
+
+- Soumen Santra
+- Arpan Deyasi
